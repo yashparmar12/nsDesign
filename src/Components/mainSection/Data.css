@@ -1,0 +1,168 @@
+.content{
+    text-align: center;
+    margin-bottom: 130px;
+}
+
+.paragraph{
+    color: gray;
+}
+.heading{
+    background-image: linear-gradient(to right, #3366ff 0%, #66ccff 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.life{   
+    background-color: black;
+    color: white;
+    padding: 130px;
+    
+}
+.f{
+    margin-left: 3%;
+}
+
+.life-content{ 
+    /* padding-top: 50px; */
+}
+.life-content1{ 
+    /* padding-bottom: 20%; */
+}
+
+.life-heading{
+    font-size: 50px;
+    margin: 10px 0px;
+}
+.life-para{
+    margin-top: 10px;
+}
+
+.cards{
+    background-image: linear-gradient(to right, #3366ff 0%, #66ccff 100%);
+    display: flex;   
+    margin-left: 7%;
+}
+.card{
+    width: 500px;
+    height: auto;
+    position: relative;
+}
+
+.card img{
+    width: 400px;
+    overflow: hidden;
+    position: absolute;
+    top: -100px;
+    border: 1px solid white;   
+    border-radius: 30px;
+}
+
+.dots img{
+    width: 100px;
+    margin-top: 120px;
+    margin-left: 700px;
+}
+
+.job-content{
+    text-align: center;
+    margin: 80px;
+     
+}
+   
+.all-box{
+    display: flex;  
+    flex-wrap: wrap;
+    justify-content:center;
+}
+.all-box2{
+    display: flex;  
+    justify-content:center;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+
+.box{
+    margin-left: 50px;
+    background-color:#F0F8FF;
+    padding: 20px 30px;
+    border: 1px solid;
+    border-radius: 20px;
+}
+.box h4{
+    text-align: center;
+}
+.box-content{
+    text-align: center;
+    margin-top:-10px;
+}   
+.card-text{
+    margin-top:-20px
+}
+
+.companys{
+    text-align: center;
+    margin-top: 8%;
+}
+
+.people{
+    text-align: center;
+    margin-top: 80px;
+}
+.fade_rule {
+    margin: 30px 0;
+    height: 2px;
+    border: none;
+    background: linear-gradient(90deg, transparent, rgb(65, 65, 213), transparent);    
+}
+
+.footer-content{
+    display:flex;
+   margin-bottom: 50px;
+   margin-left: 80px;
+ 
+}
+.footerAll{
+   color:white;
+   background-color:black;
+   padding: 20px 50px;
+   margin-top: 80px;
+}
+.company-data ul{
+   list-style-type: none;
+   margin-left:-40px
+}
+ 
+.company-data{
+   margin-right: 160px;
+}
+.company-name{
+   font-size:16px;
+}
+.copyRight{
+   display:flex;
+   margin-top:-20px;
+   margin-left: 70px;
+}
+.copyRight ul{
+   display:flex;
+   margin-left:-27px
+}
+ 
+.company-terms{
+    margin-left:20px
+}
+ 
+.social-media img{
+    width: 50px;
+}
+
+.gredient-text {
+    font-size: 20px;
+    background-image: linear-gradient(to right, #3366ff 0%, #66ccff 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
